@@ -1,0 +1,11 @@
+[package]
+name = "fibonacci"
+version = "0.1.0"
+authors = ["Mubashir <mubashirnoor.786@gmail.com>"]
+edition = "2020"
+
+[dependencies]
+
+[[bin]]
+name = "fibonacci"
+path = "main.rs"
